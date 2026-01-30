@@ -45445,7 +45445,6 @@ mummonmökki	substantiivi, yhdyssana	1.1655
 mummopyörä	substantiivi, yhdyssana	0.2164
 mummu	substantiivi	9.9918
 muna	substantiivi	65.6539
-munahaukka	substantiivi, yhdyssana	0.6801
 munahedelmä	substantiivi, yhdyssana	0
 munajuusto	substantiivi, yhdyssana	0.029
 munakas	substantiivi	1.8921
