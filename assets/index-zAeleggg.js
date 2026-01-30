@@ -2945,9 +2945,6 @@ aseistautua	verbi	2.4201
 aseistus	substantiivi	3.5491
 asekaappi	substantiivi, yhdyssana	0.6062
 asekauppa	substantiivi, yhdyssana	2.054
-aseksuaali	substantiivi	0.6923
-aseksuaalinen	adjektiivi, yhdyssana	0.0598
-aseksuaalisuus	substantiivi, yhdyssana	0.1589
 asekumppani	substantiivi, yhdyssana	0
 asekuntoinen	adjektiivi, yhdyssana	0.1608
 asekuntoisuus	substantiivi, yhdyssana	0
@@ -3930,7 +3927,6 @@ aviopari	substantiivi	3.1917
 aviopetos	substantiivi, yhdyssana	0.0171
 aviopuoliso	substantiivi, yhdyssana	8.2693
 aviorikos	substantiivi, yhdyssana	4.4372
-avioseksi	substantiivi, yhdyssana	0.2793
 aviosiippa	substantiivi	0.2164
 aviosuhde	substantiivi, yhdyssana	0.4858
 aviosääty	substantiivi, yhdyssana	0.1429
@@ -4473,9 +4469,6 @@ birdie	substantiivi	0.1581
 birgittalaisluostari	substantiivi, yhdyssana	0.0415
 birgittalaisnunna	substantiivi, yhdyssana	0
 bisarri	adjektiivi	0.0038
-biseksuaali	substantiivi	2.8183
-biseksuaalinen	adjektiivi, yhdyssana	0.4218
-biseksuaalisuus	substantiivi	0.7898
 bismarck	substantiivi	0.6069
 bisnes	substantiivi	34.0694
 bisnesenkeli	substantiivi, yhdyssana	0.1257
@@ -7127,7 +7120,6 @@ epäreilu	adjektiivi, yhdyssana	4.3713
 epäreiluus	substantiivi, yhdyssana	0.3833
 epäröidä	verbi	8.0415
 epäröinti	substantiivi	0.9045
-epäseksikäs	adjektiivi, yhdyssana	0.57
 epäselvyys	substantiivi, yhdyssana	8.4549
 epäselvä	adjektiivi, yhdyssana	34.2641
 epäsiisteys	substantiivi, yhdyssana	0.5666
@@ -11782,9 +11774,6 @@ heteromies	substantiivi, yhdyssana	5.9414
 heteronainen	substantiivi, yhdyssana	2.0048
 heteronormatiivinen	adjektiivi, yhdyssana	0.2271
 heteronormatiivisuus	substantiivi, yhdyssana	0.1433
-heteroseksuaali	substantiivi	1.1967
-heteroseksuaalinen	adjektiivi, yhdyssana	1.05
-heteroseksuaalisuus	substantiivi, yhdyssana	0.9803
 heterotsygootti	substantiivi	0.0484
 heterotsygoottinen	adjektiivi	0.0175
 hetiö	substantiivi	0
@@ -12965,16 +12954,12 @@ hommamies	substantiivi, yhdyssana	0
 hommata	verbi	61.4656
 hommautua	verbi	0.1189
 hommeli	substantiivi	2.5184
-homo	substantiivi	151.8966
-homoeroottinen	adjektiivi, yhdyssana	0.6668
 homofiili	substantiivi	0.0682
 homofiilinen	adjektiivi	0
 homofiilisuus	substantiivi	0
 homofiilisyys	substantiivi	0
 homofiilius	substantiivi	0
 homofiiliys	substantiivi	0
-homofobia	substantiivi, yhdyssana	2.2769
-homofobinen	adjektiivi	0.3418
 homogeeninen	adjektiivi	1.1381
 homogeenistaa	verbi	0.1086
 homogeenisuus	substantiivi	0.0865
@@ -12983,15 +12968,7 @@ homogenisoida	verbi	0.0956
 homogenisointi	substantiivi	0.0358
 homogenoida	verbi	0.2572
 homogenointi	substantiivi	0.1459
-homoliitto	substantiivi, yhdyssana	4.007
-homomies	substantiivi, yhdyssana	3.4584
 homonyymi	substantiivi	0.0411
-homopari	substantiivi	1.6265
-homoseksuaali	substantiivi	15.0565
-homoseksuaalinen	adjektiivi, yhdyssana	5.256
-homoseksuaalisuus	substantiivi, yhdyssana	14.3505
-homoseksualismi	substantiivi	0.6603
-homoseksualisti	substantiivi	0.3303
 homotsygootti	substantiivi	0.0781
 homotsygoottinen	adjektiivi	0.0232
 homous	substantiivi	31.4538
@@ -14274,7 +14251,6 @@ hyvähermoinen	adjektiivi, yhdyssana	0.2358
 hyvä-huuto	substantiivi, yhdyssana	0
 hyväillä	verbi	4.9672
 hyväily	substantiivi	2.1359
-hyväilyseksi	substantiivi, yhdyssana	0
 hyväkasvuinen	adjektiivi, yhdyssana	0.0271
 hyväksikäyttää	verbi, yhdyssana	1.0226
 hyväksikäyttö	substantiivi, yhdyssana	23.7457
@@ -16337,7 +16313,6 @@ interreilaaja	substantiivi	0.0335
 interreilata	verbi	0.0591
 interrogatiivinen	adjektiivi	0.0034
 interrogatiivipronomini	substantiivi, yhdyssana	0
-interseksuaalisuus	substantiivi, yhdyssana	0.0171
 intersektionaalinen	adjektiivi	0.0103
 intersukupuolinen	adjektiivi, yhdyssana	0.4976
 intersukupuolisuus	substantiivi, yhdyssana	0.0937
@@ -16547,7 +16522,6 @@ irtopuutavara	substantiivi, yhdyssana	0
 irtopuuteri	substantiivi, yhdyssana	0.2618
 irtopäällinen	substantiivi, yhdyssana	0.0362
 irtoripset	substantiivi, yhdyssana	0.1436
-irtoseksi	substantiivi, yhdyssana	0.7418
 irtosolunäyte	substantiivi, yhdyssana	0.0568
 irtosolututkimus	substantiivi, yhdyssana	0.0038
 irtosuhde	substantiivi, yhdyssana	3.6538
@@ -23474,7 +23448,6 @@ kaverikoira	substantiivi, yhdyssana	0.1215
 kaverillinen	adjektiivi	0
 kaveripiiri	substantiivi, yhdyssana	7.8639
 kaveriporukka	substantiivi, yhdyssana	6.0241
-kaveriseksi	substantiivi, yhdyssana	0
 kaverukset	substantiivi	2.1557
 kaverustua	verbi	0
 kaveruus	substantiivi	4.4246
@@ -35035,9 +35008,6 @@ lapsiraukka	substantiivi, yhdyssana	0.6054
 lapsirikas	adjektiivi, yhdyssana	0.0583
 lapsirikollinen	substantiivi, yhdyssana	0
 lapsirukka	substantiivi, yhdyssana	0.1196
-lapsiseksi	substantiivi, yhdyssana	0.1806
-lapsiseksimatkailu	substantiivi, yhdyssana	0
-lapsiseksiturismi	substantiivi, yhdyssana	0.0038
 lapsisotilas	substantiivi, yhdyssana	0.5243
 lapsiteatteri	substantiivi, yhdyssana	0.0259
 lapsitutkimus	substantiivi, yhdyssana	0.0194
@@ -42845,7 +42815,6 @@ medianomi	substantiivi	0.3166
 medianäkyvyys	substantiivi, yhdyssana	0.5105
 mediapeli	substantiivi, yhdyssana	1.0158
 mediapersoona	substantiivi, yhdyssana	0.216
-mediaseksikäs	adjektiivi, yhdyssana	0.709
 mediasirkus	substantiivi, yhdyssana	0.1817
 mediataide	substantiivi, yhdyssana	0.109
 mediataiteilija	substantiivi, yhdyssana	0.0339
@@ -47881,7 +47850,6 @@ nettipäiväkirja	substantiivi, yhdyssana	0.1924
 nettiriippuvuus	substantiivi, yhdyssana	0.5993
 nettirikollisuus	substantiivi, yhdyssana	0.0659
 nettirikos	substantiivi, yhdyssana	0.0568
-nettiseksi	substantiivi, yhdyssana	0.5265
 nettiselain	substantiivi, yhdyssana	0.5349
 nettisivu	substantiivi, yhdyssana	34.1357
 nettisivusto	substantiivi, yhdyssana	1.894
@@ -51070,7 +51038,6 @@ oraakkeli	substantiivi	1.4333
 oraakkelimainen	adjektiivi	0.0511
 oraalinen	adjektiivi	0.3151
 oraalineste	substantiivi, yhdyssana	0
-oraaliseksi	substantiivi, yhdyssana	0.1635
 oraalivaihe	substantiivi, yhdyssana	0
 orakas	substantiivi	0.1082
 oralehti	substantiivi, yhdyssana	0
@@ -55549,7 +55516,6 @@ piilopisto	substantiivi, yhdyssana	0
 piilorasva	substantiivi, yhdyssana	0.1711
 piilorikollisuus	substantiivi, yhdyssana	0.109
 piilosarana	substantiivi, yhdyssana	0
-piiloseksi	substantiivi, yhdyssana	0
 piilosilmukka	substantiivi, yhdyssana	0.0164
 piilotajuinen	adjektiivi, yhdyssana	0.0937
 piilotajuisuus	substantiivi, yhdyssana	0
@@ -58448,7 +58414,6 @@ psykopaatti	substantiivi	15.2585
 psykopaattinen	adjektiivi	1.3777
 psykopatia	substantiivi	1.9656
 psykopatologia	substantiivi	0.1478
-psykoseksuaalinen	adjektiivi, yhdyssana	0.0941
 psykosomaattinen	adjektiivi	0.9826
 psykososiaalinen	adjektiivi, yhdyssana	0.8272
 psykostimulantti	substantiivi, yhdyssana	0.0373
@@ -58637,7 +58602,6 @@ puhelinpäivystys	substantiivi, yhdyssana	0.3604
 puhelinresepti	substantiivi, yhdyssana	0.0945
 puhelinsalaisuus	substantiivi, yhdyssana	0.0377
 puhelinsanoma	substantiivi, yhdyssana	0.0069
-puhelinseksi	substantiivi, yhdyssana	0.2694
 puhelinsoitto	substantiivi, yhdyssana	3.6333
 puhelinsuoja	substantiivi	0
 puhelintariffi	substantiivi, yhdyssana	0
@@ -64666,7 +64630,6 @@ riskirakenne	substantiivi, yhdyssana	0.2168
 riskiraskaus	substantiivi, yhdyssana	0.1368
 riskiryhmä	substantiivi, yhdyssana	2.7318
 riskisana	substantiivi, yhdyssana	0.0015
-riskiseksi	substantiivi, yhdyssana	0
 riskisijoitus	substantiivi, yhdyssana	0.5353
 riskisynnyttäjä	substantiivi, yhdyssana	0.0644
 riskitekijä	substantiivi, yhdyssana	3.0305
@@ -66346,7 +66309,6 @@ ryhmäpäätös	substantiivi, yhdyssana	0.2922
 ryhmärivi	substantiivi, yhdyssana	0
 ryhmäruusu	substantiivi, yhdyssana	0.077
 ryhmäsana	substantiivi, yhdyssana	0
-ryhmäseksi	substantiivi, yhdyssana	0.9228
 ryhmäsihteeri	substantiivi, yhdyssana	0.0091
 ryhmäterapia	substantiivi, yhdyssana	0.4595
 ryhmätuki	substantiivi, yhdyssana	0.0347
@@ -68943,90 +68905,10 @@ sekopäinen	adjektiivi, yhdyssana	5.701
 sekovarsi	substantiivi, yhdyssana	0
 sekovartinen	adjektiivi, yhdyssana	0
 sekretääri	substantiivi	0
-seksi	substantiivi	224.6433
-seksiaddikti	substantiivi, yhdyssana	0.6534
-seksiaddiktio	substantiivi, yhdyssana	0.237
-seksiasiat	substantiivi, yhdyssana	0.5624
-seksibaari	substantiivi	0.1162
-seksibisnes	substantiivi, yhdyssana	0.2339
-seksielokuva	substantiivi, yhdyssana	0.0438
-seksielämä	substantiivi, yhdyssana	10.5211
-seksifilmi	substantiivi, yhdyssana	0.0682
-seksihurjastelija	substantiivi, yhdyssana	0.1166
-seksihurjastelu	substantiivi, yhdyssana	0.1307
-seksikauppa	substantiivi, yhdyssana	0.9388
-seksikielteinen	adjektiivi, yhdyssana	0
-seksikkyys	substantiivi	2.4979
-seksikokemus	substantiivi, yhdyssana	1.5751
-seksikumppani	substantiivi, yhdyssana	4.2993
-seksikäs	adjektiivi	27.2079
-seksileffa	substantiivi, yhdyssana	0.0362
-seksilehti	substantiivi, yhdyssana	0.1276
-seksilelu	substantiivi, yhdyssana	1.3297
-seksimatkailu	substantiivi, yhdyssana	0.0869
-seksiobjekti	substantiivi, yhdyssana	0.7742
-seksiongelma	substantiivi, yhdyssana	0.2995
-seksiorja	substantiivi, yhdyssana	1.1602
-seksipalvelu	substantiivi, yhdyssana	1.2676
-seksipartneri	substantiivi, yhdyssana	0.5978
-seksipitoinen	adjektiivi, yhdyssana	0.0457
-seksipommi	substantiivi, yhdyssana	0.5525
-seksipuhelin	substantiivi, yhdyssana	0.0636
-seksipuhelinpalvelu	substantiivi, yhdyssana	0.0046
-seksiravintola	substantiivi, yhdyssana	0.0343
-seksiriippuvuus	substantiivi, yhdyssana	0.3604
-seksiseura	substantiivi, yhdyssana	3.4428
-seksismi	substantiivi	0.7041
-seksisti	substantiivi	0.2526
-seksistinen	adjektiivi	1.4429
-seksisuhde	substantiivi, yhdyssana	7.4982
-seksisymboli	substantiivi, yhdyssana	0.3364
-seksitauti	substantiivi, yhdyssana	0.5513
-seksiteollisuus	substantiivi, yhdyssana	0.1086
-seksiterapeutti	substantiivi, yhdyssana	0.1722
-seksiterapia	substantiivi, yhdyssana	0.1021
-seksiturismi	substantiivi, yhdyssana	0.6511
-seksituristi	substantiivi, yhdyssana	0.3623
-seksityö	substantiivi, yhdyssana	0.5848
-seksityöläinen	substantiivi, yhdyssana	0.2263
-seksitön	adjektiivi	0
-seksivalistus	substantiivi, yhdyssana	0.4873
-seksivideo	substantiivi, yhdyssana	0.2995
-seksiviesti	substantiivi, yhdyssana	0.2861
-seksiväline	substantiivi, yhdyssana	0.2092
-seksologi	substantiivi	0.2103
-seksologia	substantiivi	0.0587
-seksologinen	adjektiivi	0.0168
-sekstailla	verbi	0.3178
 sekstantti	substantiivi	0.2595
-sekstari	substantiivi	0
-sekstata	verbi	0.173
 sekstetti	substantiivi	0.0693
 sekstetto	substantiivi	0.0088
 seksti	substantiivi	0.0305
-seksuaalielämä	substantiivi, yhdyssana	0.5208
-seksuaalikasvatus	substantiivi, yhdyssana	0.3555
-seksuaalikielteinen	adjektiivi, yhdyssana	0.0712
-seksuaalikäyttäytyminen	substantiivi, yhdyssana	0.3802
-seksuaalimurha	substantiivi, yhdyssana	0.0442
-seksuaalinen	adjektiivi	57.1267
-seksuaalineuvoja	substantiivi, yhdyssana	0.0293
-seksuaalineuvonta	substantiivi, yhdyssana	0
-seksuaaliobjekti	substantiivi, yhdyssana	0.0328
-seksuaalipsykologia	substantiivi, yhdyssana	0
-seksuaalirikos	substantiivi, yhdyssana	3.6074
-seksuaalistaa	verbi	0
-seksuaalistua	verbi	0
-seksuaalisuus	substantiivi	24.6529
-seksuaaliterapeutti	substantiivi, yhdyssana	0.1516
-seksuaaliterapia	substantiivi, yhdyssana	0.1368
-seksuaaliterveys	substantiivi, yhdyssana	0.0488
-seksuaalivalistus	substantiivi, yhdyssana	0.2637
-seksuaalivietti	substantiivi, yhdyssana	0.3269
-seksuaalivähemmistö	substantiivi, yhdyssana	0.0434
-seksualisoida	verbi	0.016
-seksualisoitua	verbi	0
-seksualiteetti	substantiivi	0.0137
 šektaus	substantiivi	0
 sekti	substantiivi	0.013
 sektio	substantiivi	6.122
@@ -72040,7 +71922,6 @@ soolokvartetti	substantiivi, yhdyssana	0
 soololaulaja	substantiivi, yhdyssana	0.0431
 soololaulu	substantiivi, yhdyssana	0.0309
 soololevy	substantiivi, yhdyssana	0.7304
-sooloseksi	substantiivi, yhdyssana	0.2012
 soolosoitin	substantiivi, yhdyssana	0.0579
 soolosoittaja	substantiivi, yhdyssana	0.0034
 soolosävellys	substantiivi, yhdyssana	0
@@ -74760,7 +74641,6 @@ suurvisiiri	substantiivi	0.2979
 suurvoitto	substantiivi, yhdyssana	0.4153
 suuryhtiö	substantiivi, yhdyssana	1.636
 suusanallinen	adjektiivi, yhdyssana	0.2229
-suuseksi	substantiivi, yhdyssana	4.6993
 suusola	substantiivi, yhdyssana	0
 suustaladattava	adjektiivi	0.0671
 suusuihke	substantiivi, yhdyssana	0.0511
@@ -81215,9 +81095,6 @@ transponoida	verbi	0.0907
 transponointi	substantiivi	0.0716
 transrasva	substantiivi, yhdyssana	0.077
 transrasvahappo	substantiivi, yhdyssana	0
-transseksuaali	substantiivi	0.7929
-transseksuaalinen	adjektiivi, yhdyssana	0.0693
-transseksuaalisuus	substantiivi, yhdyssana	0.2187
 transsendenssi	substantiivi	0.0632
 transsendentti	adjektiivi	0.0827
 transsendenttinen	adjektiivi	0.1261
@@ -82815,7 +82692,6 @@ turvapuomi	substantiivi, yhdyssana	0.0126
 turvaranneke	substantiivi, yhdyssana	0.0991
 turvariski	substantiivi	0.0972
 turvasatama	substantiivi, yhdyssana	0.5848
-turvaseksi	substantiivi, yhdyssana	0.3452
 turvasäilö	substantiivi, yhdyssana	0.3418
 turvata	verbi	40.1525
 turvataito	substantiivi, yhdyssana	0
