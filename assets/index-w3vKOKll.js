@@ -5008,7 +5008,6 @@ damastiliina	substantiivi, yhdyssana	0.0034
 damastinen	adjektiivi	0
 dandy	substantiivi	0.1715
 dari	substantiivi	0.0343
-darra	substantiivi	0.3669
 darts	substantiivi	0.2339
 darvinismi	substantiivi	0.3212
 darwinismi	substantiivi	0.3818
@@ -5896,8 +5895,6 @@ einespitsa	substantiivi, yhdyssana	0.0549
 einespizza	substantiivi, yhdyssana	0.0636
 eioo	substantiivi	0
 eittämätön	adjektiivi	0.1604
-ejakulaatio	substantiivi	0.3726
-ejakuloida	verbi	0.309
 ekaluokkalainen	substantiivi, yhdyssana	1.5366
 EKG	substantiivi	0
 e-kirja	substantiivi, yhdyssana	0.5125
@@ -6606,11 +6603,6 @@ emäseurakunta	substantiivi, yhdyssana	0.093
 emäsika	substantiivi, yhdyssana	0.101
 emäsjärjestys	substantiivi, yhdyssana	0.1033
 emätila	substantiivi, yhdyssana	0.0442
-emätin	substantiivi	5.7132
-emätinhuuhtelu	substantiivi, yhdyssana	0
-emätinkuula	substantiivi, yhdyssana	0
-emätinpuikko	substantiivi, yhdyssana	0.3376
-emätintulehdus	substantiivi, yhdyssana	0.4305
 emävalhe	substantiivi, yhdyssana	0.57
 emäyhtiö	substantiivi, yhdyssana	0.0034
 enchilada	substantiivi	0.0434
@@ -7246,8 +7238,6 @@ erehtymätön	adjektiivi	5.0887
 erehtyväinen	adjektiivi	2.3135
 erehtyväisyys	substantiivi	0.2637
 erehtyä	verbi	37.4512
-erektio	substantiivi	5.232
-erektiohäiriö	substantiivi, yhdyssana	0.7875
 e-resepti	substantiivi, yhdyssana	0.2347
 ergometri	substantiivi	0.0271
 ergonomia	substantiivi	1.5888
@@ -7477,7 +7467,6 @@ eroamisikä	substantiivi, yhdyssana	0.0613
 eroanomus	substantiivi, yhdyssana	0.6008
 eroavaisuus	substantiivi	4.0543
 eroavuus	substantiivi	1.0062
-erogeeninen	adjektiivi	0.2244
 erohakemus	substantiivi, yhdyssana	0.5285
 erojaiset	substantiivi	0
 erojaisjuhla	substantiivi, yhdyssana	0
@@ -7487,17 +7476,12 @@ eronhetki	substantiivi, yhdyssana	0.0434
 eronpyyntö	substantiivi, yhdyssana	0.3981
 eronteko	substantiivi, yhdyssana	0
 eroosio	substantiivi	1.5214
-eroottinen	adjektiivi	5.9269
-eroottistaa	verbi	0
-eroottistua	verbi	0
-eroottisuus	substantiivi	0.3094
 eroraha	substantiivi, yhdyssana	1.2615
 eroryhmä	substantiivi, yhdyssana	0.1646
 erosija	substantiivi, yhdyssana	0
 erossaolo	substantiivi, yhdyssana	0.1513
 erota	verbi	169.0349
 erotella	verbi	9.4207
-erotiikka	substantiivi	2.8522
 erotin	substantiivi	0.2564
 erotisoida	verbi	0.0301
 erotisointi	substantiivi	0
@@ -7615,7 +7599,6 @@ esikypsennys	substantiivi, yhdyssana	0.0019
 esikypsentää	verbi, yhdyssana	0.0861
 esikäsitellä	verbi, yhdyssana	0.2183
 esikäsittely	substantiivi, yhdyssana	0.362
-esileikki	substantiivi, yhdyssana	2.6335
 esiliina	substantiivi, yhdyssana	1.367
 esillepano	substantiivi, yhdyssana	0.4328
 esilletulo	substantiivi, yhdyssana	0.3006
@@ -9312,6 +9295,7 @@ gyrokompassi	substantiivi, yhdyssana	0
 gyrokopteri	substantiivi	0.0099
 gyroskooppi	substantiivi	0.1261
 gängi	substantiivi	0.048
+haahka	substantiivi	0.6721
 haahkanuntuva	substantiivi, yhdyssana	0.0038
 haahti	substantiivi	0.2355
 haahuilla	verbi	2.0936
@@ -17813,9 +17797,6 @@ jouhisorsa	substantiivi, yhdyssana	0.0408
 jouhivihvilä	substantiivi, yhdyssana	0
 joukkio	substantiivi	3.4123
 joukko	substantiivi	281.1486
-joukkoahdistelu	substantiivi, yhdyssana	0.2099
-joukkoammuskelu	substantiivi, yhdyssana	0.0183
-joukkoampuminen	substantiivi	0
 joukkoanomus	substantiivi, yhdyssana	0
 joukkoero	substantiivi, yhdyssana	0.0381
 joukkoeroaminen	substantiivi	0.0263
@@ -29483,9 +29464,6 @@ kouluaikainen	adjektiivi, yhdyssana	0.2888
 kouluaine	substantiivi, yhdyssana	0.8138
 kouluakäymätön	adjektiivi	0.0507
 koulualus	substantiivi, yhdyssana	0.0057
-kouluammunta	substantiivi	0.1219
-kouluammuskelu	substantiivi, yhdyssana	0.5902
-kouluampuminen	substantiivi	0
 kouluarvosana	substantiivi, yhdyssana	0.8645
 kouluaste	substantiivi, yhdyssana	0.4458
 kouluateria	substantiivi, yhdyssana	0.1261
@@ -29766,10 +29744,6 @@ kranttuilla	verbi	0
 krappi	substantiivi	0.0282
 krappilakka	substantiivi	0
 krapu	substantiivi	0.2945
-krapula	substantiivi	14.0488
-krapula-aamu	substantiivi, yhdyssana	0.2979
-krapulainen	adjektiivi	0.7285
-krapularyyppy	substantiivi, yhdyssana	0.2221
 krassi	substantiivi	0.3437
 kravatti	substantiivi	2.5363
 kreatiivinen	adjektiivi	0.0282
@@ -31650,11 +31624,6 @@ kusettaja	substantiivi	4.6608
 kusetus	substantiivi	5.0018
 kusiainen	substantiivi	0.6946
 kusiaispesä	substantiivi, yhdyssana	0.4267
-kusihätä	substantiivi, yhdyssana	0.4222
-kusiluistin	substantiivi, yhdyssana	0.0682
-kusinen	adjektiivi	1.7999
-kusiputka	substantiivi, yhdyssana	0.1379
-kusipäinen	adjektiivi, yhdyssana	3.3254
 kuskailla	verbi	0.5319
 kuskata	verbi	9.8878
 kuskaus	substantiivi	0.232
@@ -42098,7 +42067,6 @@ mannaryynipuuro	substantiivi, yhdyssana	0
 mannaryynivelli	substantiivi, yhdyssana	0
 mannasuurimo	substantiivi, yhdyssana	0.0728
 mannavelli	substantiivi, yhdyssana	0.0526
-manne	substantiivi	7.3736
 mannekiini	substantiivi	1.6246
 mannekiinikoulu	substantiivi, yhdyssana	0.0274
 mannekiinikurssi	substantiivi, yhdyssana	0.0023
@@ -47569,8 +47537,6 @@ navigoija	substantiivi	0.0667
 navigointi	substantiivi	2.3074
 navigointilaite	substantiivi, yhdyssana	0.1962
 neandertalinihminen	substantiivi, yhdyssana	0
-neekeriorja	substantiivi, yhdyssana	0.0145
-neekeriorjuus	substantiivi, yhdyssana	0.0183
 nefriitti	substantiivi	0.0038
 nega	substantiivi	4.1659
 negaatio	substantiivi	0.9994
@@ -51089,9 +51055,6 @@ organisointikyky	substantiivi, yhdyssana	0.216
 organisointikykyinen	adjektiivi, yhdyssana	0.0183
 organisoitua	verbi	1.1266
 organogeeninen	adjektiivi	0
-orgasmi	substantiivi	12.7617
-orgastinen	adjektiivi	0.0164
-orgiat	substantiivi	0.1269
 orhi	substantiivi	0.4568
 ori	substantiivi	5.9029
 oribletti	substantiivi	0
@@ -52328,7 +52291,6 @@ paksupyörä	substantiivi	0
 paksupäinen	adjektiivi, yhdyssana	0.1314
 paksurunkoinen	adjektiivi, yhdyssana	0.021
 paksusuoli	substantiivi	2.4647
-paksusuolisyöpä	substantiivi, yhdyssana	0.2191
 paksuta	verbi	0.3882
 paksuuntua	verbi	0.7018
 paksuuntuma	substantiivi	0.0472
@@ -52915,6 +52877,7 @@ pankkiyhteys	substantiivi, yhdyssana	0.3837
 pankko	substantiivi	1.1308
 pankojauho	substantiivi, yhdyssana	0
 pankrotti	substantiivi	0
+panna	substantiivi	14.6553
 pannacotta	substantiivi	0.0164
 pannahinen	substantiivi	0.1021
 pannajulistus	substantiivi, yhdyssana	0.0046
@@ -52933,6 +52896,7 @@ pannumyssy	substantiivi, yhdyssana	0.1391
 pannunmyssy	substantiivi, yhdyssana	0
 pannupihvi	substantiivi, yhdyssana	0.0171
 pannupitsa	substantiivi, yhdyssana	0.0347
+pano	substantiivi	17.2827
 panoraama	substantiivi	0.2976
 panoraamaelokuva	substantiivi, yhdyssana	0
 panoraamakamera	substantiivi, yhdyssana	0.0084
@@ -53764,6 +53728,7 @@ pegasos	substantiivi	0.3616
 pegmatiitti	substantiivi	0.024
 peherrys	substantiivi	0
 pehertää	verbi	0
+pehko	substantiivi	0.7399
 pehku	substantiivi	1.0981
 pehmeikkö	substantiivi	0.0187
 pehmennys	substantiivi	0.2739
@@ -54159,9 +54124,7 @@ pendeliliikenne	substantiivi, yhdyssana	0
 pendelöidä	verbi	0.0133
 pendelöinti	substantiivi	0.0507
 pendyyli	substantiivi	0
-penetraatio	substantiivi	0.4663
 penetranssi	substantiivi	0
-penetroida	verbi	0.1455
 penger	substantiivi	0.429
 pengeristutus	substantiivi, yhdyssana	0
 pengerluiska	substantiivi, yhdyssana	0
@@ -54182,14 +54145,10 @@ penikkatauti	substantiivi, yhdyssana	0.4854
 penikoida	verbi	0.1063
 penikointi	substantiivi	0
 peninkulma	substantiivi, yhdyssana	0.3795
-penis	substantiivi	16.6293
 penisilliini	substantiivi	0.698
 penisilliinihoito	substantiivi, yhdyssana	0
 penisilliinikuuri	substantiivi	0.069
 penisilliiniruiske	substantiivi, yhdyssana	0
-peniskateus	substantiivi, yhdyssana	0.3303
-penispumppu	substantiivi, yhdyssana	0.1292
-penisrengas	substantiivi, yhdyssana	0.0507
 penkata	verbi	0
 penkere	substantiivi	0.0838
 penkereinen	adjektiivi	0
@@ -55658,7 +55617,6 @@ piiska-auto	substantiivi, yhdyssana	0
 piiskanisku	substantiivi, yhdyssana	0.0259
 piiskansiima	substantiivi, yhdyssana	0
 piiskaraha	substantiivi, yhdyssana	0.0259
-piiskaryyppy	substantiivi, yhdyssana	0.0179
 piiskata	verbi	3.0252
 piiskatykki	substantiivi	0.0191
 piiskaus	substantiivi	0.2896
@@ -56246,6 +56204,7 @@ pioneerilaji	substantiivi, yhdyssana	0
 pioneerityö	substantiivi, yhdyssana	0.2313
 pioni	substantiivi	1.1007
 pipana	substantiivi	0.2686
+pipari	substantiivi	5.9829
 piparjuuri	substantiivi	0.2511
 piparjuurikastike	substantiivi, yhdyssana	0.0107
 piparjuuriliha	substantiivi, yhdyssana	0.0042
@@ -56463,6 +56422,7 @@ pistämätön	adjektiivi	0.2252
 pistävä	adjektiivi	1.9744
 pistäytymispaikka	substantiivi, yhdyssana	0.0255
 pistäytyä	verbi	4.2051
+pistää	verbi	197.7886
 pisu	substantiivi	1.2245
 pisuaari	substantiivi	0.4195
 pita	substantiivi	0.2153
@@ -64892,7 +64852,6 @@ rohjo	substantiivi	0.1955
 rohkaista	verbi	14.7342
 rohkaistua	verbi	2.6564
 rohkaisu	substantiivi	3.5921
-rohkaisuryyppy	substantiivi, yhdyssana	0.2667
 rohkea	adjektiivi	39.3189
 rohkeaotteinen	adjektiivi, yhdyssana	0
 rohkeapuheinen	adjektiivi, yhdyssana	0
@@ -65762,7 +65721,6 @@ ruokaresepti	substantiivi, yhdyssana	0.2976
 ruokarinki	substantiivi, yhdyssana	0
 ruokarukous	substantiivi, yhdyssana	0.767
 ruokarytmi	substantiivi, yhdyssana	0.2206
-ruokaryyppy	substantiivi, yhdyssana	0.1288
 ruokasalaatti	substantiivi, yhdyssana	0.0191
 ruokasali	substantiivi, yhdyssana	1.3175
 ruokasalinkalusto	substantiivi, yhdyssana	0.0175
@@ -66487,19 +66445,6 @@ ryvästyä	verbi	0.0114
 ryydittää	verbi	1.0272
 ryyni	substantiivi	0.7315
 ryynimakkara	substantiivi, yhdyssana	0.1909
-ryypiskelijä	substantiivi	0.032
-ryypiskellä	verbi	1.1011
-ryypiskely	substantiivi	0.5105
-ryyppy	substantiivi	5.7212
-ryyppykaveri	substantiivi, yhdyssana	0.5486
-ryyppykierre	substantiivi, yhdyssana	0.0248
-ryyppymies	substantiivi, yhdyssana	0.1261
-ryyppyreissu	substantiivi, yhdyssana	0.7521
-ryyppyseura	substantiivi, yhdyssana	0.109
-ryyppyveikko	substantiivi, yhdyssana	0.0354
-ryyppäjäiset	substantiivi	0.0411
-ryypytin	substantiivi	0
-ryypätä	verbi	20.724
 ryysis	substantiivi	0.5075
 ryysiä	verbi	0.213
 ryystää	verbi	1.5076
@@ -73458,7 +73403,6 @@ sukupuolittua	verbi, yhdyssana	0.3418
 sukupuolivalistus	substantiivi, yhdyssana	0.1909
 sukupuolivietti	substantiivi, yhdyssana	0.5277
 sukupuolivähemmistö	substantiivi, yhdyssana	0.666
-sukupuoliyhdyntä	substantiivi, yhdyssana	0.6496
 sukupuoliyhteys	substantiivi, yhdyssana	2.6407
 sukupuu	substantiivi, yhdyssana	3.4058
 sukupuutto	substantiivi	11.3844
@@ -75375,9 +75319,6 @@ syöpyä	verbi	2.5047
 syöpä	substantiivi	42.045
 syöpägeeni	substantiivi, yhdyssana	0.0309
 syöpäinen	adjektiivi	0.1025
-syöpäkasvain	substantiivi, yhdyssana	1.0291
-syöpäkudos	substantiivi, yhdyssana	0.0438
-syöpäleikkaus	substantiivi, yhdyssana	0.192
 syöpäläinen	substantiivi	1.2185
 syöpälääke	substantiivi, yhdyssana	0.541
 syöpätutkimus	substantiivi, yhdyssana	0.2709
@@ -79774,7 +79715,6 @@ tiheälyöntisyys	substantiivi	0.064
 tiheänukkainen	adjektiivi, yhdyssana	0
 tiheäsilmäinen	adjektiivi, yhdyssana	0.056
 tiheäsyinen	adjektiivi, yhdyssana	0.0491
-tiheävirtsaisuus	substantiivi	0
 tihku	substantiivi	0.0194
 tihkua	verbi	4.0447
 tihkuinen	adjektiivi	0.0236
@@ -81325,6 +81265,7 @@ tuhisuttaa	verbi	0
 tuhka	substantiivi	13.9741
 tuhkakeskiviikko	substantiivi, yhdyssana	0.0819
 tuhkakuppi	substantiivi, yhdyssana	1.4478
+tuhkaluukku	substantiivi, yhdyssana	0.8725
 tuhkanharmaa	adjektiivi, yhdyssana	0.0613
 tuhkapensas	substantiivi, yhdyssana	0.0229
 tuhkapesä	substantiivi, yhdyssana	0.0629
@@ -86855,7 +86796,6 @@ valkuaisrehu	substantiivi, yhdyssana	0.0956
 valkuaisrikas	adjektiivi, yhdyssana	0
 valkuaistarve	substantiivi, yhdyssana	0.0065
 valkuaisvaahto	substantiivi, yhdyssana	0.0526
-valkuaisvirtsaisuus	substantiivi	0.0069
 valkyria	substantiivi	0.1151
 vallanhalu	substantiivi, yhdyssana	1.2383
 vallanhaluinen	adjektiivi, yhdyssana	0.6557
@@ -89156,7 +89096,6 @@ veriviemäri	substantiivi, yhdyssana	0
 verivihollinen	substantiivi, yhdyssana	0.3235
 veriviljely	substantiivi, yhdyssana	0.0259
 verivirta	substantiivi, yhdyssana	0.1219
-verivirtsaisuus	substantiivi	0.0716
 veriyskä	substantiivi, yhdyssana	0.0484
 veriyskös	substantiivi, yhdyssana	0.0297
 verka	substantiivi	11.3101
@@ -90551,34 +90490,6 @@ viimevuotinen	adjektiivi, yhdyssana	2.9006
 viimeöinen	adjektiivi, yhdyssana	0.4427
 viina	substantiivi	74.124
 viinabasso	substantiivi, yhdyssana	0
-viinahuuru	substantiivi, yhdyssana	0.1391
-viinahuuruinen	adjektiivi, yhdyssana	0.2743
-viinahöyry	substantiivi, yhdyssana	0.1013
-viinahöyryinen	adjektiivi, yhdyssana	0.0621
-viinainen	adjektiivi	0
-viinakauppa	substantiivi, yhdyssana	2.5562
-viinakortti	substantiivi, yhdyssana	0.1966
-viinakset	substantiivi	2.0087
-viinalesti	substantiivi, yhdyssana	0
-viinamäki	substantiivi, yhdyssana	0.5391
-viinanhimo	substantiivi, yhdyssana	0.4496
-viinanhuuru	substantiivi, yhdyssana	0
-viinanhuuruinen	adjektiivi, yhdyssana	0
-viinanhöyry	substantiivi, yhdyssana	0
-viinanhöyryinen	adjektiivi, yhdyssana	0
-viinanjuonti	substantiivi, yhdyssana	0.8813
-viinankeitto	substantiivi, yhdyssana	0.0263
-viinanmyynti	substantiivi, yhdyssana	0.1806
-viinanpoltto	substantiivi, yhdyssana	0.0446
-viinanvalmistus	substantiivi, yhdyssana	0.0057
-viinapannu	substantiivi, yhdyssana	0.0575
-viinapikari	substantiivi, yhdyssana	0
-viinapullo	substantiivi, yhdyssana	2.2495
-viinapää	substantiivi, yhdyssana	0.6626
-viinaryyppy	substantiivi, yhdyssana	0.0914
-viinatehdas	substantiivi, yhdyssana	0.1379
-viinaton	adjektiivi	0.1154
-viinatrokari	substantiivi, yhdyssana	0.1585
 viineri	substantiivi	0.9731
 viini	substantiivi	46.8136
 viinialue	substantiivi, yhdyssana	0.1627
@@ -91450,37 +91361,6 @@ virtaustoisto	substantiivi, yhdyssana	0
 virtaviivainen	adjektiivi, yhdyssana	0.562
 virtaviivaistaa	verbi	0.1859
 virtaviivaistus	substantiivi	0
-virtsa-aine	substantiivi, yhdyssana	0.0411
-virtsaamispakko	substantiivi, yhdyssana	0.0027
-virtsaamisvaikeus	substantiivi, yhdyssana	0.0941
-virtsaelin	substantiivi, yhdyssana	0.0301
-virtsahappo	substantiivi, yhdyssana	0.1764
-virtsainkontinenssi	substantiivi, yhdyssana	0
-virtsakaivo	substantiivi, yhdyssana	0.0084
-virtsakivi	substantiivi, yhdyssana	0.8816
-virtsakoe	substantiivi, yhdyssana	0.3315
-virtsamyrkytys	substantiivi, yhdyssana	0.032
-virtsaneritys	substantiivi, yhdyssana	0.1116
-virtsanjohdin	substantiivi, yhdyssana	0.0358
-virtsankarkailu	substantiivi, yhdyssana	0
-virtsanpidätys	substantiivi, yhdyssana	0
-virtsanpidätyskyky	substantiivi, yhdyssana	0.0552
-virtsanpidätyskyvyttömyys	substantiivi, yhdyssana	0.0152
-virtsanäyte	substantiivi, yhdyssana	0.8451
-virtsaputki	substantiivi, yhdyssana	1.0626
-virtsaputkitulehdus	substantiivi, yhdyssana	0.1193
-virtsarakko	substantiivi, yhdyssana	1.4882
-virtsarakkotulehdus	substantiivi, yhdyssana	0.1048
-virtsarakontähystin	substantiivi, yhdyssana	0
-virtsarakontähystys	substantiivi, yhdyssana	0
-virtsasuihku	substantiivi, yhdyssana	0.101
-virtsata	verbi	2.1576
-virtsatesti	substantiivi, yhdyssana	0.2503
-virtsatie	substantiivi, yhdyssana	0.5932
-virtsatieinfektio	substantiivi, yhdyssana	0.3357
-virtsatietulehdus	substantiivi, yhdyssana	1.4802
-virtsatulehdus	substantiivi, yhdyssana	0.5208
-virtsaumpi	substantiivi, yhdyssana	0.1985
 virttyä	verbi	0.533
 virtuaalihahmo	substantiivi, yhdyssana	0.0411
 virtuaalilemmikki	substantiivi, yhdyssana	0.0175
@@ -93249,7 +93129,6 @@ yhdistystoiminta	substantiivi, yhdyssana	1.2897
 yhdistyä	verbi	19.9303
 yhdistäjä	substantiivi	0.2435
 yhdistää	verbi	86.7715
-yhdyntä	substantiivi	16.4937
 yhdysadjektiivi	substantiivi, yhdyssana	0
 yhdyselin	substantiivi, yhdyssana	0.0122
 yhdyselämä	substantiivi, yhdyssana	0.1596
